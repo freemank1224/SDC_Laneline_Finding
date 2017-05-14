@@ -1,0 +1,1 @@
+This file contains several folders which stored the result images after processing. The original images are from the 'test_images' folder. The 'binary' folder contains images after threshoding, the 'camera_cal' folder contains undistort images, 'undist' folder contains perspective transform.
